@@ -1,0 +1,26 @@
+Portfolio Setup Instructions
+================================
+
+To complete your portfolio setup, please add these files to the portfolio folder:
+
+1. Profile Picture:
+   - Save your profile picture as: waleed-profile.jpg
+   - Place it in: portfolio/waleed-profile.jpg
+   - The image you provided should work perfectly!
+
+2. CV/Resume:
+   - Save your CV as: Waleed Ahmad Software Engineer.pdf
+   - Place it in: portfolio/Waleed Ahmad Software Engineer.pdf
+   - The website will automatically link to this file for download
+
+After adding these files, simply open index.html in your browser to view your portfolio!
+
+Changes Made:
+✓ Removed "Tech Enthusiast" from title
+✓ Updated color scheme to purple/blue gradient (#6a11cb to #2575fc)
+✓ Changed background to coding-themed image
+✓ Linked CV download buttons to your PDF file
+✓ Updated profile image reference
+✓ All sections are fully responsive and animated
+
+The website is ready to use once you add your profile picture and CV!
